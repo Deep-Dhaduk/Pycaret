@@ -1,0 +1,12 @@
+pycaret==2.3.5
+jupyter
+nbconvert
+pandas
+numpy
+scikit-learn
+mlxtend
+matplotlib
+seaborn
+lightgbm
+numba
+joblib
